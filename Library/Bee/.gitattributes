@@ -1,0 +1,4 @@
+out.arr filter=lfs diff=lfs merge=lfs -text
+out.aar filter=lfs diff=lfs merge=lfs -text
+libil12cpp.so filter=lfs diff=lfs merge=lfs -text
+libil12cpp.dbg.so filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,4 @@
+#Tue Jun 04 20:16:51 MSK 2024
+base.0=D\:\\game_dev\\unity projects\\Diplom\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

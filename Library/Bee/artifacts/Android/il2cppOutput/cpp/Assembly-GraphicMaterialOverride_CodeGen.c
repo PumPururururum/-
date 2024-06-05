@@ -1,0 +1,264 @@
+﻿#include "pch-c.h"
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_m180599B89491BF7A44BFA768E23B12D90956A1C2 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mA01112809985A6858D7C34136DFC927017F00FC9 (void);
+extern void BufferedMaterialModifier_GetModifiedMaterial_m8363DC817CF8770A9007A8ABA5913277E4554E06 (void);
+extern void BufferedMaterialModifier_DestroyBuffer_m5A4CA9FBD6C5E10F69F8E8EE1E83D15CEC4A2190 (void);
+extern void BufferedMaterialModifier_OnDestroy_mAA32189E11B02DD31666BA5F84261812AABD45CA (void);
+extern void BufferedMaterialModifier__ctor_m4086A5B281F2FADF5C5F4243D0F704F9E2C8DBF2 (void);
+extern void GraphicMaterialOverride_SetMaterialDirty_m6D08CB29F7DC63C11A921607FA3E7FCDA1760C0D (void);
+extern void GraphicMaterialOverride_GetModifiers_mADADE78AEB39E74685E0A30195D892DD411D4CD3 (void);
+extern void GraphicMaterialOverride_OnEnable_m3DF84B2F44A928B36823A872A7130BA97FB73C23 (void);
+extern void GraphicMaterialOverride_OnDisable_m030FFB6CAFC1E4FEC3629B8946D7D1B7BF06D0D0 (void);
+extern void GraphicMaterialOverride_ModifyMaterial_m3BE75F8C3871E5D7C1AEF2CE671C1382AAEF87CF (void);
+extern void GraphicMaterialOverride__ctor_mE4D5C49872995A05A88B225154D61F0F93140029 (void);
+extern void U3CGetModifiersU3Ed__2__ctor_m1A238A7F03B2BB4A46AB194AC8F87547356DC4B5 (void);
+extern void U3CGetModifiersU3Ed__2_System_IDisposable_Dispose_m2F0AF780E125770A5613ED90FA0EB65BBD09961B (void);
+extern void U3CGetModifiersU3Ed__2_MoveNext_m69CC713706F4F3B236E4F4E524217DCFFFF2AA73 (void);
+extern void U3CGetModifiersU3Ed__2_U3CU3Em__Finally1_mF0D2150C89F4098C97AFF0D852C0E35726E78189 (void);
+extern void U3CGetModifiersU3Ed__2_U3CU3Em__Finally2_mBF9A607AB1F10EC68F8A259458156C66D445E313 (void);
+extern void U3CGetModifiersU3Ed__2_System_Collections_Generic_IEnumeratorU3CPlugins_Animate_UI_Materials_IMaterialPropertyModifierU3E_get_Current_m9CCA3117FE85818F64DBE3EAB690B85BAD9AB5BC (void);
+extern void U3CGetModifiersU3Ed__2_System_Collections_IEnumerator_Reset_m8E2B77A7E36EC79ABAF4E13F829C5402247E9BB5 (void);
+extern void U3CGetModifiersU3Ed__2_System_Collections_IEnumerator_get_Current_m768E26A365CF12C38E532485C131AB560F53CD33 (void);
+extern void U3CGetModifiersU3Ed__2_System_Collections_Generic_IEnumerableU3CPlugins_Animate_UI_Materials_IMaterialPropertyModifierU3E_GetEnumerator_m006EF5A38582C803C560A46ADE4C408340137D11 (void);
+extern void U3CGetModifiersU3Ed__2_System_Collections_IEnumerable_GetEnumerator_m80FE17C1F366EAAF88E7BE32D4A03D915A7C3C3C (void);
+extern void GraphicMaterialReplacer_get_Material_mD1FAC7F025B92DCBB314C7FB3A7D2FD570FAD93A (void);
+extern void GraphicMaterialReplacer_set_Material_m3624312D7C5B8827550A3F3C4A9B420CFE5AB349 (void);
+extern void GraphicMaterialReplacer_SetMaterialDirty_mCCC8016684C58CB13AF5E5596DB5419B641A2CEC (void);
+extern void GraphicMaterialReplacer_OnEnable_m419B00E503016229123711100FCE40785D336579 (void);
+extern void GraphicMaterialReplacer_OnDisable_mD6883AFE0981A08F11FAE817D18F068CD7B2DEE9 (void);
+extern void GraphicMaterialReplacer_GetModifiedMaterial_m9B5CE59DCED0937B36BBABE8C95304B365A7315D (void);
+extern void GraphicMaterialReplacer__ctor_mC96E62662D9EC4E67B9A4C42639A243C63E02D7F (void);
+extern void GraphicPropertyOverride_OnEnable_mF6C1C5DB5DF806C0BF395D022342CC392EA814DB (void);
+extern void GraphicPropertyOverride_OnDisable_m09A99D0F3A001FA53A625801A1D96694ACAF9B33 (void);
+extern void GraphicPropertyOverride_SetMaterialDirty_m215D8419001323D48BF2FAD81F6D53D5DAC1B7AF (void);
+extern void GraphicPropertyOverride_get_PropertyName_m048CCA36E408547093BFB0C4B630A27B88D75AA1 (void);
+extern void GraphicPropertyOverride_set_PropertyName_m65C896548228EFADC8384F82A976B247B8326526 (void);
+extern void GraphicPropertyOverride_get_ParentGraphic_m3861270B8A1EB6B1BDD91072741B4DC97A4EA94F (void);
+extern void GraphicPropertyOverride_get_ParentOverride_m311EEF816A3F4E0EF49656E4A254DB80B75D5E28 (void);
+extern void GraphicPropertyOverride__ctor_mBFB8AA9D251024E22316644924385BECDBAAE99A (void);
+extern void GraphicPropertyOverride_Plugins_Animate_UI_Materials_IMaterialPropertyModifier_get_enabled_m1077143DD2A517EA80E8D04387511EA98EC12E3C (void);
+extern void GraphicPropertyOverrideColor_ApplyModifiedProperty_m2995B8EF0815855C895A27E071A642320ADFD1F0 (void);
+extern void GraphicPropertyOverrideColor_GetDefaultValue_mBC1B84DE604282E665703EFFBD62FCA5FF1C138B (void);
+extern void GraphicPropertyOverrideColor__ctor_m565879B32311D4B575962172A9A826E69C256157 (void);
+extern void GraphicPropertyOverrideFloat_ApplyModifiedProperty_m30E59A22DA290B0FB8EF9863690BD8211AB3475D (void);
+extern void GraphicPropertyOverrideFloat_GetDefaultValue_m037985C835C934BD46BC6B313E2ADC725BDB6F5C (void);
+extern void GraphicPropertyOverrideFloat__ctor_m800A88287A2B1127D605D9144F9F409A26EFA297 (void);
+extern void GraphicPropertyOverrideInt_ApplyModifiedProperty_m4E28F45884F21994D9E4C52D59D0E878C494B587 (void);
+extern void GraphicPropertyOverrideInt_GetDefaultValue_m06F8D9F52D06AFC7AAEA0A266B825D06770A2830 (void);
+extern void GraphicPropertyOverrideInt__ctor_mC7CE70830943D03411ED76D21B6FACC4B179DD23 (void);
+extern void GraphicPropertyOverrideRange_ApplyModifiedProperty_m862A1076B0FCAEB812FB0DB0696E3238CFFB0E81 (void);
+extern void GraphicPropertyOverrideRange_GetDefaultValue_mBA2E117A06E425E640E4B168CBE79A3D49F5AC00 (void);
+extern void GraphicPropertyOverrideRange__ctor_mCD495339097E96F5D29D42E969BC209069B8BB45 (void);
+extern void GraphicPropertyOverrideTexture_ApplyModifiedProperty_mA59A1AC545F7EE25B5C454AD93FFF78CF8B4259F (void);
+extern void GraphicPropertyOverrideTexture_GetDefaultValue_m7177F9BB87A5FEFC1F1D347110867C9C05BD4FC5 (void);
+extern void GraphicPropertyOverrideTexture__ctor_m121448ABDC35BE8FB317D5C9C451E88D100E50DA (void);
+extern void GraphicPropertyOverrideVector_ApplyModifiedProperty_mDEF97CC6C9A706B28478C925747925BAA5B3E319 (void);
+extern void GraphicPropertyOverrideVector_GetDefaultValue_m9F18EB8E29E5A77D086CD584E9472EA6A7E510D3 (void);
+extern void GraphicPropertyOverrideVector__ctor_m249376B22B55F3794C55D7A5F371CB32FE5B2F0B (void);
+static Il2CppMethodPointer s_methodPointers[71] = 
+{
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_m180599B89491BF7A44BFA768E23B12D90956A1C2,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mA01112809985A6858D7C34136DFC927017F00FC9,
+	BufferedMaterialModifier_GetModifiedMaterial_m8363DC817CF8770A9007A8ABA5913277E4554E06,
+	BufferedMaterialModifier_DestroyBuffer_m5A4CA9FBD6C5E10F69F8E8EE1E83D15CEC4A2190,
+	NULL,
+	BufferedMaterialModifier_OnDestroy_mAA32189E11B02DD31666BA5F84261812AABD45CA,
+	BufferedMaterialModifier__ctor_m4086A5B281F2FADF5C5F4243D0F704F9E2C8DBF2,
+	GraphicMaterialOverride_SetMaterialDirty_m6D08CB29F7DC63C11A921607FA3E7FCDA1760C0D,
+	GraphicMaterialOverride_GetModifiers_mADADE78AEB39E74685E0A30195D892DD411D4CD3,
+	GraphicMaterialOverride_OnEnable_m3DF84B2F44A928B36823A872A7130BA97FB73C23,
+	GraphicMaterialOverride_OnDisable_m030FFB6CAFC1E4FEC3629B8946D7D1B7BF06D0D0,
+	GraphicMaterialOverride_ModifyMaterial_m3BE75F8C3871E5D7C1AEF2CE671C1382AAEF87CF,
+	GraphicMaterialOverride__ctor_mE4D5C49872995A05A88B225154D61F0F93140029,
+	U3CGetModifiersU3Ed__2__ctor_m1A238A7F03B2BB4A46AB194AC8F87547356DC4B5,
+	U3CGetModifiersU3Ed__2_System_IDisposable_Dispose_m2F0AF780E125770A5613ED90FA0EB65BBD09961B,
+	U3CGetModifiersU3Ed__2_MoveNext_m69CC713706F4F3B236E4F4E524217DCFFFF2AA73,
+	U3CGetModifiersU3Ed__2_U3CU3Em__Finally1_mF0D2150C89F4098C97AFF0D852C0E35726E78189,
+	U3CGetModifiersU3Ed__2_U3CU3Em__Finally2_mBF9A607AB1F10EC68F8A259458156C66D445E313,
+	U3CGetModifiersU3Ed__2_System_Collections_Generic_IEnumeratorU3CPlugins_Animate_UI_Materials_IMaterialPropertyModifierU3E_get_Current_m9CCA3117FE85818F64DBE3EAB690B85BAD9AB5BC,
+	U3CGetModifiersU3Ed__2_System_Collections_IEnumerator_Reset_m8E2B77A7E36EC79ABAF4E13F829C5402247E9BB5,
+	U3CGetModifiersU3Ed__2_System_Collections_IEnumerator_get_Current_m768E26A365CF12C38E532485C131AB560F53CD33,
+	U3CGetModifiersU3Ed__2_System_Collections_Generic_IEnumerableU3CPlugins_Animate_UI_Materials_IMaterialPropertyModifierU3E_GetEnumerator_m006EF5A38582C803C560A46ADE4C408340137D11,
+	U3CGetModifiersU3Ed__2_System_Collections_IEnumerable_GetEnumerator_m80FE17C1F366EAAF88E7BE32D4A03D915A7C3C3C,
+	GraphicMaterialReplacer_get_Material_mD1FAC7F025B92DCBB314C7FB3A7D2FD570FAD93A,
+	GraphicMaterialReplacer_set_Material_m3624312D7C5B8827550A3F3C4A9B420CFE5AB349,
+	GraphicMaterialReplacer_SetMaterialDirty_mCCC8016684C58CB13AF5E5596DB5419B641A2CEC,
+	GraphicMaterialReplacer_OnEnable_m419B00E503016229123711100FCE40785D336579,
+	GraphicMaterialReplacer_OnDisable_mD6883AFE0981A08F11FAE817D18F068CD7B2DEE9,
+	GraphicMaterialReplacer_GetModifiedMaterial_m9B5CE59DCED0937B36BBABE8C95304B365A7315D,
+	GraphicMaterialReplacer__ctor_mC96E62662D9EC4E67B9A4C42639A243C63E02D7F,
+	GraphicPropertyOverride_OnEnable_mF6C1C5DB5DF806C0BF395D022342CC392EA814DB,
+	GraphicPropertyOverride_OnDisable_m09A99D0F3A001FA53A625801A1D96694ACAF9B33,
+	NULL,
+	GraphicPropertyOverride_SetMaterialDirty_m215D8419001323D48BF2FAD81F6D53D5DAC1B7AF,
+	NULL,
+	GraphicPropertyOverride_get_PropertyName_m048CCA36E408547093BFB0C4B630A27B88D75AA1,
+	GraphicPropertyOverride_set_PropertyName_m65C896548228EFADC8384F82A976B247B8326526,
+	GraphicPropertyOverride_get_ParentGraphic_m3861270B8A1EB6B1BDD91072741B4DC97A4EA94F,
+	GraphicPropertyOverride_get_ParentOverride_m311EEF816A3F4E0EF49656E4A254DB80B75D5E28,
+	GraphicPropertyOverride__ctor_mBFB8AA9D251024E22316644924385BECDBAAE99A,
+	GraphicPropertyOverride_Plugins_Animate_UI_Materials_IMaterialPropertyModifier_get_enabled_m1077143DD2A517EA80E8D04387511EA98EC12E3C,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	GraphicPropertyOverrideColor_ApplyModifiedProperty_m2995B8EF0815855C895A27E071A642320ADFD1F0,
+	GraphicPropertyOverrideColor_GetDefaultValue_mBC1B84DE604282E665703EFFBD62FCA5FF1C138B,
+	GraphicPropertyOverrideColor__ctor_m565879B32311D4B575962172A9A826E69C256157,
+	GraphicPropertyOverrideFloat_ApplyModifiedProperty_m30E59A22DA290B0FB8EF9863690BD8211AB3475D,
+	GraphicPropertyOverrideFloat_GetDefaultValue_m037985C835C934BD46BC6B313E2ADC725BDB6F5C,
+	GraphicPropertyOverrideFloat__ctor_m800A88287A2B1127D605D9144F9F409A26EFA297,
+	GraphicPropertyOverrideInt_ApplyModifiedProperty_m4E28F45884F21994D9E4C52D59D0E878C494B587,
+	GraphicPropertyOverrideInt_GetDefaultValue_m06F8D9F52D06AFC7AAEA0A266B825D06770A2830,
+	GraphicPropertyOverrideInt__ctor_mC7CE70830943D03411ED76D21B6FACC4B179DD23,
+	GraphicPropertyOverrideRange_ApplyModifiedProperty_m862A1076B0FCAEB812FB0DB0696E3238CFFB0E81,
+	GraphicPropertyOverrideRange_GetDefaultValue_mBA2E117A06E425E640E4B168CBE79A3D49F5AC00,
+	GraphicPropertyOverrideRange__ctor_mCD495339097E96F5D29D42E969BC209069B8BB45,
+	GraphicPropertyOverrideTexture_ApplyModifiedProperty_mA59A1AC545F7EE25B5C454AD93FFF78CF8B4259F,
+	GraphicPropertyOverrideTexture_GetDefaultValue_m7177F9BB87A5FEFC1F1D347110867C9C05BD4FC5,
+	GraphicPropertyOverrideTexture__ctor_m121448ABDC35BE8FB317D5C9C451E88D100E50DA,
+	GraphicPropertyOverrideVector_ApplyModifiedProperty_mDEF97CC6C9A706B28478C925747925BAA5B3E319,
+	GraphicPropertyOverrideVector_GetDefaultValue_m9F18EB8E29E5A77D086CD584E9472EA6A7E510D3,
+	GraphicPropertyOverrideVector__ctor_m249376B22B55F3794C55D7A5F371CB32FE5B2F0B,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};
+static const int32_t s_InvokerIndices[71] = 
+{
+	13905,
+	7398,
+	5105,
+	7398,
+	0,
+	7398,
+	7398,
+	7398,
+	5097,
+	7398,
+	7398,
+	5804,
+	7398,
+	5769,
+	7398,
+	7156,
+	7398,
+	7398,
+	7259,
+	7398,
+	7259,
+	7259,
+	7259,
+	7259,
+	5804,
+	7398,
+	7398,
+	7398,
+	5105,
+	7398,
+	7398,
+	7398,
+	0,
+	5693,
+	0,
+	7259,
+	5804,
+	7259,
+	7259,
+	7398,
+	7156,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	0,
+	5804,
+	1917,
+	7398,
+	5804,
+	1917,
+	7398,
+	5804,
+	1917,
+	7398,
+	5804,
+	1917,
+	7398,
+	5804,
+	1917,
+	7398,
+	5804,
+	1917,
+	7398,
+	0,
+	0,
+	0,
+	0,
+	0,
+};
+static const Il2CppTokenRangePair s_rgctxIndices[1] = 
+{
+	{ 0x02000009, { 0, 9 } },
+};
+extern const uint32_t g_rgctx_GraphicPropertyOverride_1_t85BE08A0A952D6B256271D89AD8D01BAED755889;
+extern const uint32_t g_rgctx_EqualityComparer_1_get_Default_mC78AC394DD138C14FB8A20FB5CD3801BE17BF5B8;
+extern const uint32_t g_rgctx_EqualityComparer_1_t4839D252D72109CE0B3146067DBC8A2CFA8A7E60;
+extern const uint32_t g_rgctx_EqualityComparer_1_t4839D252D72109CE0B3146067DBC8A2CFA8A7E60;
+extern const uint32_t g_rgctx_T_t3AAC4CB612AD852BDBA6526C0FD338315C0EA943;
+extern const uint32_t g_rgctx_EqualityComparer_1_Equals_m7B790D97D9150BFF7BDE9EAF47544CFA228C2022;
+extern const uint32_t g_rgctx_GraphicPropertyOverride_1_GetDefaultValue_mF469FDDFBDDD54B4E8C0F9ED017C7323AD395C71;
+extern const uint32_t g_rgctx_TU26_tB78ECABCB3469774D9397B7CB47B190EA3E05E1B;
+extern const uint32_t g_rgctx_GraphicPropertyOverride_1_set_PropertyValue_mAAB45F896708C62AE2882B56F636D86436F7BE98;
+static const Il2CppRGCTXDefinition s_rgctxValues[9] = 
+{
+	{ (Il2CppRGCTXDataType)2, (const void *)&g_rgctx_GraphicPropertyOverride_1_t85BE08A0A952D6B256271D89AD8D01BAED755889 },
+	{ (Il2CppRGCTXDataType)3, (const void *)&g_rgctx_EqualityComparer_1_get_Default_mC78AC394DD138C14FB8A20FB5CD3801BE17BF5B8 },
+	{ (Il2CppRGCTXDataType)2, (const void *)&g_rgctx_EqualityComparer_1_t4839D252D72109CE0B3146067DBC8A2CFA8A7E60 },
+	{ (Il2CppRGCTXDataType)2, (const void *)&g_rgctx_EqualityComparer_1_t4839D252D72109CE0B3146067DBC8A2CFA8A7E60 },
+	{ (Il2CppRGCTXDataType)2, (const void *)&g_rgctx_T_t3AAC4CB612AD852BDBA6526C0FD338315C0EA943 },
+	{ (Il2CppRGCTXDataType)3, (const void *)&g_rgctx_EqualityComparer_1_Equals_m7B790D97D9150BFF7BDE9EAF47544CFA228C2022 },
+	{ (Il2CppRGCTXDataType)3, (const void *)&g_rgctx_GraphicPropertyOverride_1_GetDefaultValue_mF469FDDFBDDD54B4E8C0F9ED017C7323AD395C71 },
+	{ (Il2CppRGCTXDataType)2, (const void *)&g_rgctx_TU26_tB78ECABCB3469774D9397B7CB47B190EA3E05E1B },
+	{ (Il2CppRGCTXDataType)3, (const void *)&g_rgctx_GraphicPropertyOverride_1_set_PropertyValue_mAAB45F896708C62AE2882B56F636D86436F7BE98 },
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DGraphicMaterialOverride_CodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DGraphicMaterialOverride_CodeGenModule = 
+{
+	"Assembly-GraphicMaterialOverride.dll",
+	71,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	1,
+	s_rgctxIndices,
+	9,
+	s_rgctxValues,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};

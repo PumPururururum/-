@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\game_dev\\unity projects\\Diplom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|D:\\game_dev\\unity projects\\Diplom\\assets\\scripts\\scripts level 2\\glowsequencemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scripts level 2\\glowsequencemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|d:\\game_dev\\unity projects\\diplom\\assets\\scripts\\levelselect\\levelselectscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelselect\\levelselectscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|d:\\game_dev\\unity projects\\diplom\\assets\\assets\\flying blob\\scripts\\logicscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\flying blob\\scripts\\logicscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|d:\\game_dev\\unity projects\\diplom\\assets\\assets\\flying blob\\scripts\\pipespawnscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\flying blob\\scripts\\pipespawnscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|d:\\game_dev\\unity projects\\diplom\\assets\\assets\\flying blob\\scripts\\stolbmovescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\flying blob\\scripts\\stolbmovescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|d:\\game_dev\\unity projects\\diplom\\assets\\assets\\flying blob\\scripts\\blolbscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\flying blob\\scripts\\blolbscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|D:\\game_dev\\unity projects\\Diplom\\assets\\scripts\\scripts level 2\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA0B1AC7-C448-6388-8A77-45941B4D1CFB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scripts level 2\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 319,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LevelSelectScript.cs",
+              "DocumentMoniker": "D:\\game_dev\\unity projects\\Diplom\\Assets\\scripts\\LevelSelect\\LevelSelectScript.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\LevelSelect\\LevelSelectScript.cs",
+              "ToolTip": "D:\\game_dev\\unity projects\\Diplom\\Assets\\scripts\\LevelSelect\\LevelSelectScript.cs",
+              "RelativeToolTip": "Assets\\scripts\\LevelSelect\\LevelSelectScript.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAkwD0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T16:55:58.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PipeSpawnScript.cs",
+              "DocumentMoniker": "D:\\game_dev\\unity projects\\Diplom\\Assets\\assets\\Flying Blob\\scripts\\PipeSpawnScript.cs",
+              "RelativeDocumentMoniker": "Assets\\assets\\Flying Blob\\scripts\\PipeSpawnScript.cs",
+              "ToolTip": "D:\\game_dev\\unity projects\\Diplom\\Assets\\assets\\Flying Blob\\scripts\\PipeSpawnScript.cs",
+              "RelativeToolTip": "Assets\\assets\\Flying Blob\\scripts\\PipeSpawnScript.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T16:23:28.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StolbMoveScript.cs",
+              "DocumentMoniker": "D:\\game_dev\\unity projects\\Diplom\\Assets\\assets\\Flying Blob\\scripts\\StolbMoveScript.cs",
+              "RelativeDocumentMoniker": "Assets\\assets\\Flying Blob\\scripts\\StolbMoveScript.cs",
+              "ToolTip": "D:\\game_dev\\unity projects\\Diplom\\Assets\\assets\\Flying Blob\\scripts\\StolbMoveScript.cs",
+              "RelativeToolTip": "Assets\\assets\\Flying Blob\\scripts\\StolbMoveScript.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T16:22:48.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Blolbscript.cs",
+              "DocumentMoniker": "D:\\game_dev\\unity projects\\Diplom\\Assets\\assets\\Flying Blob\\scripts\\Blolbscript.cs",
+              "RelativeDocumentMoniker": "Assets\\assets\\Flying Blob\\scripts\\Blolbscript.cs",
+              "ToolTip": "D:\\game_dev\\unity projects\\Diplom\\Assets\\assets\\Flying Blob\\scripts\\Blolbscript.cs",
+              "RelativeToolTip": "Assets\\assets\\Flying Blob\\scripts\\Blolbscript.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwDQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T15:29:16.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogicScript.cs",
+              "DocumentMoniker": "D:\\game_dev\\unity projects\\Diplom\\Assets\\assets\\Flying Blob\\scripts\\LogicScript.cs",
+              "RelativeDocumentMoniker": "Assets\\assets\\Flying Blob\\scripts\\LogicScript.cs",
+              "ToolTip": "D:\\game_dev\\unity projects\\Diplom\\Assets\\assets\\Flying Blob\\scripts\\LogicScript.cs",
+              "RelativeToolTip": "Assets\\assets\\Flying Blob\\scripts\\LogicScript.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowCEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T13:09:40.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GlowSequenceManager.cs",
+              "DocumentMoniker": "D:\\game_dev\\unity projects\\Diplom\\Assets\\scripts\\scripts level 2\\GlowSequenceManager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\scripts level 2\\GlowSequenceManager.cs",
+              "ToolTip": "D:\\game_dev\\unity projects\\Diplom\\Assets\\scripts\\scripts level 2\\GlowSequenceManager.cs",
+              "RelativeToolTip": "Assets\\scripts\\scripts level 2\\GlowSequenceManager.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAgwIkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:44:33.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "D:\\game_dev\\unity projects\\Diplom\\Assets\\scripts\\scripts level 2\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\scripts level 2\\UIManager.cs",
+              "ToolTip": "D:\\game_dev\\unity projects\\Diplom\\Assets\\scripts\\scripts level 2\\UIManager.cs",
+              "RelativeToolTip": "Assets\\scripts\\scripts level 2\\UIManager.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAuwIEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:12:32.437Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 14,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
